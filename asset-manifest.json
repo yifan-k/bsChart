@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bsChart/static/css/main.fca4aea6.css",
-    "main.js": "/bsChart/static/js/main.f40857c6.js",
+    "main.css": "/bsChart/static/css/main.e682a5a4.css",
+    "main.js": "/bsChart/static/js/main.98df2ecb.js",
     "static/js/787.d1d4a2c2.chunk.js": "/bsChart/static/js/787.d1d4a2c2.chunk.js",
     "static/media/down_arrow.svg": "/bsChart/static/media/down_arrow.ba0303648a7f263c6af939f57b39b11f.svg",
     "index.html": "/bsChart/index.html",
     "static/media/back.svg": "/bsChart/static/media/back.588b45fa2abb5f02ad8d6629a15c651e.svg",
-    "main.fca4aea6.css.map": "/bsChart/static/css/main.fca4aea6.css.map",
-    "main.f40857c6.js.map": "/bsChart/static/js/main.f40857c6.js.map",
+    "main.e682a5a4.css.map": "/bsChart/static/css/main.e682a5a4.css.map",
+    "main.98df2ecb.js.map": "/bsChart/static/js/main.98df2ecb.js.map",
     "787.d1d4a2c2.chunk.js.map": "/bsChart/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fca4aea6.css",
-    "static/js/main.f40857c6.js"
+    "static/css/main.e682a5a4.css",
+    "static/js/main.98df2ecb.js"
   ]
 }
