@@ -1,6 +1,6 @@
 # About
-Chart viewer for mobile rhythm game BlackStar -Theater Starless-.
-Click [HERE](https://yifan-k.github.io/bsChart/) to start.
+Chart viewer for mobile rhythm game BlackStar -Theater Starless-.<br/>
+Click [HERE](https://yifan-k.github.io/bsChart/) and choose the chart you want to check.
 
 # Chart Update
 All charts are updated manually. Please wait patiently when there comes a new song.
