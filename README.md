@@ -1,3 +1,16 @@
-# bsChart
-Chart viewer for mobile game BlackStar -Theater Starless- 
-[Link](https://yifan-k.github.io/bsChart/)
+# About
+Chart viewer for mobile rhythm game BlackStar -Theater Starless-.
+Click [HERE](https://yifan-k.github.io/bsChart/) to start.
+
+# Chart Update
+All charts are updated manually. Please wait patiently when there's a new song.
+
+# Known Issue
+- Can only display notes aligned to lanes
+- Some notes has wrong positions & width
+
+# To Do
+- Add score estimation with skill & appeal settings
+
+# Credit
+All jacket images & charts belongs to DONUTS Co. Ltd.
