@@ -3,7 +3,7 @@ This is a chart viewer for game BlackStar -Theater Starless-(ブラックスタ�
 Click [Link here](https://yifan-k.github.io/bsChart/) and choose the chart you want to see!
 
 # Known Issues
-- Lane seperators are off on some broswers
+- Lane seperators are off in some broswers
 - Can only display notes aligned to lanes
 - Single-pixel blanks due to float point calculation
 
