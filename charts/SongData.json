@@ -1,0 +1,962 @@
+{
+    "M2_K1": {
+        "title": "Crazy for",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M5_K2": {
+        "title": "During the demise(争奪ver)",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M7_K3": {
+        "title": "花はかすかに",
+        "singer": "ケイ、吉野",
+        "team": "K"
+    },
+    "M8_W2": {
+        "title": "Breakin' it faster",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M10_W4": {
+        "title": "Bad Blood",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M17_W5": {
+        "title": "Seaside Escape",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M21_W6": {
+        "title": "Payback",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M3_P1": {
+        "title": "虹の彼方へ",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M11_P2": {
+        "title": "陽はここに",
+        "singer": "リンドウ",
+        "team": "P"
+    },
+    "M12_P3": {
+        "title": "Paradise Lost",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M13_P4": {
+        "title": "荒野にて",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M16_K4": {
+        "title": "Halloween Night",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M22_P5": {
+        "title": "僕のすべてを君に捧げる",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M6_B1": {
+        "title": "日蝕",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M14_B2": {
+        "title": "Judas",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M15_B3": {
+        "title": "Monokaki",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M24_K5": {
+        "title": "華麗なる誘惑",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M4_C1": {
+        "title": "Purple Dawn",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M23_X1": {
+        "title": "Salva me",
+        "singer": "リンドウ",
+        "team": "Mix"
+    },
+    "M28_B5": {
+        "title": "雷神",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M9_W3": {
+        "title": "雪花",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M3_1_P1_1": {
+        "title": "虹の彼方へ",
+        "singer": "吉野",
+        "team": "Mix"
+    },
+    "M8_1_W2_1": {
+        "title": "Breakin' it faster",
+        "singer": "マイカ",
+        "team": "Mix"
+    },
+    "M5_1_K2_1": {
+        "title": "During the demise",
+        "singer": "リンドウ",
+        "team": "Mix"
+    },
+    "M6_1_B1_1": {
+        "title": "日蝕(晶ver)",
+        "singer": "晶",
+        "team": "Mix"
+    },
+    "M18_C2": {
+        "title": "Sub rosa",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M19_C3": {
+        "title": "To be, or not to be",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M25_W7": {
+        "title": "仮面は闇に溶けて",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M30_P7": {
+        "title": "はつ恋",
+        "singer": "マイカ、リンドウ",
+        "team": "P"
+    },
+    "M1_W1": {
+        "title": "WHITE STAR",
+        "singer": "晶",
+        "team": "Mix"
+    },
+    "M20_B4": {
+        "title": "駄犬",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M27_K6": {
+        "title": "エギーユ・クルーズ",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M31_C4": {
+        "title": "花ほどく",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M38_X2": {
+        "title": "Fragile Lake",
+        "singer": "ケイ、リンドウ",
+        "team": "Mix"
+    },
+    "M29_K7": {
+        "title": "Treasured",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M29_1_K7_1": {
+        "title": "Treasured(吉野ver)",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M32_B6": {
+        "title": "Somewhere",
+        "singer": "ヒース、晶",
+        "team": "B"
+    },
+    "M34_C5": {
+        "title": "続きは明日の夜に",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M41_X3": {
+        "title": "Early Summer Affair",
+        "singer": "マイカ、柘榴",
+        "team": "P"
+    },
+    "M42_X4": {
+        "title": "Mid Summer Beach",
+        "singer": "吉野、晶",
+        "team": "K"
+    },
+    "M44_X5": {
+        "title": "Just a Loser",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、柘榴、ヒース",
+        "team": "Mix"
+    },
+    "M36_P8": {
+        "title": "希望の旗のもとに",
+        "singer": "マイカ、真珠",
+        "team": "P"
+    },
+    "M35_K8": {
+        "title": "The Final Problem",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M33_W8": {
+        "title": "No Way Out",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M48_P10": {
+        "title": "黎明は待たない",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M40_B7": {
+        "title": "極夜",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M37_C6": {
+        "title": "虚構の肖像",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M52_B9": {
+        "title": "天魔の宴",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M62_P12": {
+        "title": "残紅の行方",
+        "singer": "リンドウ、マイカ",
+        "team": "P"
+    },
+    "M26_P6": {
+        "title": "銀河鉄道を探して",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M54_W10": {
+        "title": "Out in Out",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M56_X7": {
+        "title": "Without her?",
+        "singer": "真珠",
+        "team": "Mix"
+    },
+    "M55_X6": {
+        "title": "snowflake",
+        "singer": "ケイ",
+        "team": "Mix"
+    },
+    "M58_B10": {
+        "title": "炎神",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M57_W11": {
+        "title": "Shooooout!!!（BLACK PARTY）",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M46_C7": {
+        "title": "暁の願い ",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M50_B8": {
+        "title": "無敵",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M47_C8": {
+        "title": "Into me",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M60_X8": {
+        "title": "催花の宿星",
+        "singer": "晶、リンドウ",
+        "team": "Mix"
+    },
+    "M63_X9": {
+        "title": "沈まぬ月",
+        "singer": "夜光、吉野",
+        "team": "Mix"
+    },
+    "M64_P14": {
+        "title": "雨傘",
+        "singer": "真珠、マイカ",
+        "team": "P"
+    },
+    "M39_K9": {
+        "title": "ひらひらり",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M61_K11": {
+        "title": "ONLY IF",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M67_P13": {
+        "title": "縷々たるは祈望",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M66_W12": {
+        "title": "BLACKSTARⅢ(EVEN) ",
+        "singer": "晶",
+        "team": "Mix"
+    },
+    "M68_W13": {
+        "title": "Burning breath",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M65_K12": {
+        "title": "シーズン3第8章",
+        "singer": "",
+        "team": "Mix"
+    },
+    "M69_B11": {
+        "title": "影炎",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M53_C9": {
+        "title": "Just live to dance",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M70_K13": {
+        "title": "黒い虚実",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M80_B13": {
+        "title": "Mosquitone",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M79_P17": {
+        "title": "Trick or Truth",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M82_B14": {
+        "title": "綺羅星",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M83_B15": {
+        "title": "不死鳥",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M85_C12": {
+        "title": "灰燼に罪",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M86_P18": {
+        "title": "Luminous Snow",
+        "singer": "リンドウ",
+        "team": "P"
+    },
+    "M88_W16": {
+        "title": "孤独の夜、祈りの月、",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M89_K16": {
+        "title": "波のままに",
+        "singer": "夜光",
+        "team": "K"
+    },
+    "M59_C10": {
+        "title": "紅に白",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M91_B16": {
+        "title": "韋駄天",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M90_C13": {
+        "title": "Cry:Pta",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M92_K17": {
+        "title": "caprice of love",
+        "singer": "吉野、夜光",
+        "team": "K"
+    },
+    "M93_K18": {
+        "title": "Temptation Game",
+        "singer": "ケイ、吉野",
+        "team": "K"
+    },
+    "M94_P20": {
+        "title": "一雫の秘密",
+        "singer": "マイカ、リンドウ",
+        "team": "P"
+    },
+    "M95_W17": {
+        "title": "ALL IN",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M97_X11": {
+        "title": "White Wish",
+        "singer": "運営",
+        "team": "Mix"
+    },
+    "M98_X12": {
+        "title": "Scarlet Desire",
+        "singer": "羽瀬山",
+        "team": "Mix"
+    },
+    "M101_X13": {
+        "title": "名残の花",
+        "singer": "晶",
+        "team": "Mix"
+    },
+    "M102_X14": {
+        "title": "ひなげし",
+        "singer": "リンドウ",
+        "team": "Mix"
+    },
+    "M106_B18": {
+        "title": "讃B歌",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M96_W18": {
+        "title": "That's my life",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M87_P19": {
+        "title": "Violet",
+        "singer": "真珠",
+        "team": "P"
+    },
+    "M99_1_B17_1": {
+        "title": "烏合島(晶ver)",
+        "singer": "晶",
+        "team": "B"
+    },
+    "M103_K19": {
+        "title": "Run away together",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M104_W19": {
+        "title": "月影紅く",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M114_X15": {
+        "title": "ermitage",
+        "singer": "吉野、柘榴",
+        "team": "Mix"
+    },
+    "M109_K21": {
+        "title": "To the world",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M110_C15": {
+        "title": "Sword of love",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M108_P21": {
+        "title": "ふたつ星が出逢う夜",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M111_W21": {
+        "title": "TURNT UP",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M113_B19": {
+        "title": "皆既日蝕",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M115_X16": {
+        "title": "Too bad",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、夜光、柘榴、ヒース",
+        "team": "Mix"
+    },
+    "M84_K15": {
+        "title": "UnlockU",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M117_C16": {
+        "title": "vow of love",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M118_X20": {
+        "title": "The lament moon",
+        "singer": "吉野、マイカ",
+        "team": "Mix"
+    },
+    "M100_C14": {
+        "title": "白晝夢",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M105_X17": {
+        "title": "PRISMATIC TEAR",
+        "singer": "夜光",
+        "team": "Mix"
+    },
+    "M121_X18": {
+        "title": "You are mine",
+        "singer": "ケイ、リンドウ、吉野",
+        "team": "Mix"
+    },
+    "M122_X19": {
+        "title": "MASTERMIND",
+        "singer": "晶、夜光",
+        "team": "Mix"
+    },
+    "M123_K22": {
+        "title": "百花ノ咲駆",
+        "singer": "夜光、吉野",
+        "team": "K"
+    },
+    "M119_W22": {
+        "title": "我ら外へ",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M125_P23": {
+        "title": "Beyond the Door",
+        "singer": "真珠",
+        "team": "P"
+    },
+    "M126_B20": {
+        "title": "HELL OH!!!",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M129_B21": {
+        "title": "Not B",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M128_X21": {
+        "title": "羅新盤",
+        "singer": "晶",
+        "team": "B"
+    },
+    "M77_X10": {
+        "title": "ego",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、夜光、柘榴、ヒース",
+        "team": "Mix"
+    },
+    "M131_X22": {
+        "title": "ほしぞらエレジー",
+        "singer": "運営",
+        "team": "Mix"
+    },
+    "M127_P24": {
+        "title": "The Die is Cast",
+        "singer": "真珠",
+        "team": "Mix"
+    },
+    "M132_W24": {
+        "title": "MORTAL SMILE",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M130_P25": {
+        "title": "刹那の嘘",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M120_W23": {
+        "title": "Deity's Game",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M136_X24": {
+        "title": "aka,aka",
+        "singer": "マイカ",
+        "team": "Mix"
+    },
+    "M124_X23": {
+        "title": "Must be the Heart",
+        "singer": "柘榴",
+        "team": "Mix"
+    },
+    "M116_K20": {
+        "title": "LEVITATE",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M135_K23": {
+        "title": "GRAVITATE",
+        "singer": "夜光",
+        "team": "K"
+    },
+    "M137_C19": {
+        "title": "千夜一愛",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M138_X25": {
+        "title": "Night xo bird",
+        "singer": "夜光",
+        "team": "Mix"
+    },
+    "M139_X26": {
+        "title": "Call me, Baby!",
+        "singer": "晶",
+        "team": "Mix"
+    },
+    "M140_X27": {
+        "title": "Period..",
+        "singer": "吉野",
+        "team": "Mix"
+    },
+    "M141_B22": {
+        "title": "人間失格",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M142_1_X28_1": {
+        "title": "Prestorm",
+        "singer": "",
+        "team": "Mix"
+    },
+    "M142_X28": {
+        "title": "Shadows in the Dark",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、夜光、柘榴、ヒース",
+        "team": "Mix"
+    },
+    "M143_X29": {
+        "title": "SILENCER",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、夜光、柘榴、ヒース",
+        "team": "Mix"
+    },
+    "M144_X30": {
+        "title": "月光",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、夜光、柘榴、ヒース",
+        "team": "Mix"
+    },
+    "M145_P26": {
+        "title": "BELOVED",
+        "singer": "リンドウ",
+        "team": "P"
+    },
+    "M146_W25": {
+        "title": "水底の館",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M148_C21": {
+        "title": "VAPORIZE",
+        "singer": "青桐",
+        "team": "C"
+    },
+    "M147_C20": {
+        "title": "溺るる蝶",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M149_K24": {
+        "title": "FORT/TUDE",
+        "singer": "夜光",
+        "team": "K"
+    },
+    "M150_K25": {
+        "title": "Quiet Serenade",
+        "singer": "ケイ、吉野、夜光",
+        "team": "K"
+    },
+    "M151_B23": {
+        "title": "Satan*Close",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M152_C22": {
+        "title": "夜のしじま",
+        "singer": "柘榴、青桐",
+        "team": "C"
+    },
+    "M153_P27": {
+        "title": "閃光の果て",
+        "singer": "柘榴、青桐",
+        "team": "P"
+    },
+    "M154_X35": {
+        "title": "片鳴き龍",
+        "singer": "真珠",
+        "team": "Mix"
+    },
+    "M51_K10": {
+        "title": "闇に咲く",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M155_B24": {
+        "title": "Ask Yourself",
+        "singer": "ヒース",
+        "team": "B"
+    },
+    "M160_W26": {
+        "title": "Riskin’ it all",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M156_X31": {
+        "title": "WORLDS APART",
+        "singer": "ケイ、夜光",
+        "team": "Mix"
+    },
+    "M157_X32": {
+        "title": "Sink deep",
+        "singer": "晶",
+        "team": "Mix"
+    },
+    "M158_X33": {
+        "title": "Sadistic Braver",
+        "singer": "青桐",
+        "team": "Mix"
+    },
+    "M159_X34": {
+        "title": "魔界ニ君臨セシ常闇ノ王",
+        "singer": "運営",
+        "team": "Mix"
+    },
+    "M163_C23": {
+        "title": "Who killed My Cock Robin?",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M43_W9": {
+        "title": "夜明けを捨て",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M161_X36": {
+        "title": "Seed in your hand",
+        "singer": "晶、柘榴",
+        "team": "Mix"
+    },
+    "M162_X37": {
+        "title": "Ur-Fall",
+        "singer": "マイカ、吉野",
+        "team": "Mix"
+    },
+    "M164_K26": {
+        "title": "Behind the Ruins",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M165_C24": {
+        "title": "Blanche",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M165_1_C24_1": {
+        "title": "Blanche(Happy End ver)",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M167_P28": {
+        "title": "星渡りの帰り道",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M168_W27": {
+        "title": "moon flower",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M169_K27": {
+        "title": "twilight flower",
+        "singer": "吉野、夜光",
+        "team": "K"
+    },
+    "M172_P29": {
+        "title": "翠花ひとつ消ゆ",
+        "singer": "マイカ、リンドウ、真珠",
+        "team": "P"
+    },
+    "M174_C25": {
+        "title": "ワールドエンド",
+        "singer": "柘榴、青桐",
+        "team": "C"
+    },
+    "M170_K28": {
+        "title": "約束は永遠に",
+        "singer": "ケイ、吉野、夜光",
+        "team": "K"
+    },
+    "M171_W28": {
+        "title": "死神の決断",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M45_P9": {
+        "title": "Helpless Hope",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M176_C26": {
+        "title": "silly and absurd",
+        "singer": "青桐",
+        "team": "C"
+    },
+    "M178_W29": {
+        "title": "Oh my Pollyanna!",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M49_P11": {
+        "title": "Never My Love",
+        "singer": "リンドウ",
+        "team": "P"
+    },
+    "M177_K29": {
+        "title": "Blaze Out My Sins",
+        "singer": "夜光",
+        "team": "K"
+    },
+    "M179_X38": {
+        "title": "Sugar & Whisker",
+        "singer": "マイカ、真珠、柘榴、青桐",
+        "team": "Mix"
+    },
+    "M180_X39": {
+        "title": "Anywhere",
+        "singer": "ヒース、晶",
+        "team": "Mix"
+    },
+    "M181_K30": {
+        "title": "ILLEGAL GLOW",
+        "singer": "ケイ",
+        "team": "K"
+    },
+    "M81_W15": {
+        "title": "N.S.D.A",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M184_W30": {
+        "title": "Achievable love",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M134_C18": {
+        "title": "届かない暁にただ祈りを",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M133_C17": {
+        "title": "永遠の愛を",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M185_K31": {
+        "title": "Sky's the Limit!",
+        "singer": "吉野",
+        "team": "K"
+    },
+    "M188_X41": {
+        "title": "なんて素敵な Starless Show",
+        "singer": "運営",
+        "team": "Mix"
+    },
+    "M189_X42": {
+        "title": "My Starless Show",
+        "singer": "運営",
+        "team": "Mix"
+    },
+    "M186_P30": {
+        "title": "Destiny's Whisper",
+        "singer": "マイカ",
+        "team": "P"
+    },
+    "M187_W31": {
+        "title": "Serenity's Call",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M192_X44": {
+        "title": "アンビバレント・ナイチンゲール",
+        "singer": "真珠、夜光",
+        "team": "Mix"
+    },
+    "M193_X45": {
+        "title": "海に還る Lover",
+        "singer": "青桐",
+        "team": "Mix"
+    },
+    "M191_X43": {
+        "title": "夜がふたりを分かつまで",
+        "singer": "柘榴",
+        "team": "Mix"
+    },
+    "M195_W32": {
+        "title": "終焉より遠く",
+        "singer": "晶",
+        "team": "W"
+    },
+    "M194_K32": {
+        "title": "The Velvet Sleep",
+        "singer": "ケイ、吉野、夜光",
+        "team": "K"
+    },
+    "M196_P31": {
+        "title": "角笛は螺旋の音色",
+        "singer": "マイカ、リンドウ、真珠",
+        "team": "P"
+    },
+    "M197_C27": {
+        "title": "ワールドアウェイク",
+        "singer": "柘榴、青桐",
+        "team": "C"
+    },
+    "M200_X46": {
+        "title": "ハピハピ！",
+        "singer": "真珠",
+        "team": "Mix"
+    },
+    "M199_C28": {
+        "title": "Les chats sorciers",
+        "singer": "柘榴",
+        "team": "C"
+    },
+    "M201_X47": {
+        "title": "Black Gamble",
+        "singer": "ケイ、リンドウ、晶、吉野、真珠、マイカ、夜光、柘榴、ヒース、青桐",
+        "team": "Mix"
+    }
+}
